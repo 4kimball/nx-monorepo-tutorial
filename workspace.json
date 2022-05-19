@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "next-app": "apps/next-app",
-    "next-app-e2e": "apps/next-app-e2e"
+    "next-app-e2e": "apps/next-app-e2e",
+    "react-ui": "libs/react-ui"
   }
 }

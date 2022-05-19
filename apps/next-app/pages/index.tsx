@@ -1,5 +1,5 @@
 import styles from './index.module.css';
-
+import { Header } from '@nx-monorepo-tutorial/react-ui';
 export function Index() {
   /*
    * Replace the elements below with your own.
@@ -8,6 +8,7 @@ export function Index() {
    */
   return (
     <div className={styles.page}>
+      <Header title={'HELLO WORLD!!!'} />
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
